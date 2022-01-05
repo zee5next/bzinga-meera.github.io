@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "657b68be10335f008f3fb58efecc44a7",
-"main.dart.js": "b26cfd04a517ad44f0764ffaefabe861",
+"main.dart.js": "f121d8852570c0f0bfb71e38c50f6720",
 "favicon.ico": "feb95b21e9e3f2fbf3b3a6b3a57d1117",
 "assets/AssetManifest.json": "1f5dbbe15abecdc1f4465fa26892c1b8",
 "assets/assets/video/trailer.mp4": "f41d9f3a3a23668c4502585e92e1e9ef",
@@ -91,8 +91,8 @@ const RESOURCES = {
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/NOTICES": "d0adea61f85fc3ab2b0525a14100dd44",
 "version.json": "af2610e5f190b5ca4879d39cc45773a2",
-"index.html": "dceb3044727c4a8406e21c7578bdee6f",
-"/": "dceb3044727c4a8406e21c7578bdee6f",
+"index.html": "4ddf2614c5228477b037a48e0a8edcf3",
+"/": "4ddf2614c5228477b037a48e0a8edcf3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
